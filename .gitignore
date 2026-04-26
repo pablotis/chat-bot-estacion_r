@@ -1,0 +1,27 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Secretos / credenciales
+.Renviron
+.Renviron.local
+.env
+.env.*
+*.key
+*.pem
+secrets/
+credentials*
+
+# Datos sensibles del proyecto
+# (el archivo real no se versiona; usar authorized_emails.example.csv como plantilla)
+data/authorized_emails.csv
+
+# Logs y temporales
+*.log
+logs/
+tmp/
+.DS_Store
+Thumbs.db
