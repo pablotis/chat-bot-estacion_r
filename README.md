@@ -1,5 +1,7 @@
 # 🤖 Chat-Bot Asistente para Estación R
 
+> **⚠️ Archivado (2026-09-17).** Este fue el prototipo original de tutor de IA para alumnos de Estación R (agosto 2025). Quedó reemplazado por [tutor-ia-intro-r](https://github.com/Estacion-R/tutor-ia-intro-r), que es la versión en producción activa. Este repo se conserva solo como referencia histórica.
+
 > Aplicación Shiny interactiva que proporciona asistencia pedagógica especializada en R para estudiantes de Estación R.
 
 ## 📋 Descripción
